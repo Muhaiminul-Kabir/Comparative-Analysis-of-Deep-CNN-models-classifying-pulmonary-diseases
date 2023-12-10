@@ -7,6 +7,12 @@ This repository contains materials related to our AI model developed for the CSE
 - Research proposals
 - Dataset used for training the AI model
 
+## Datasets
+Datasets used for this research:
++ [Covid19 radiography database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database/)
++ [Chest X-ray Images](https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images/)
++ [Covid XRay Dataset](https://www.kaggle.com/datasets/ahemateja19bec1025/covid-xray-dataset)
+
 ## Usage
 we will tell about the usage later.
 
